@@ -3,8 +3,11 @@
 ## STRUCTURING APP
 
 [ATOMIC DESIGN GIT EXAMPLE](https://github.com/danilowoz/react-atomic-design)
+
 [REACT STRUCTURE FAQ](https://reactjs.org/docs/faq-structure.html)
+
 [Domain driven design](https://css-tricks.com/domain-driven-design-with-react/])
+
 [Modules](https://dev.to/jack/organizing-your-react-app-into-modules-d6n)
 
 - Structure domain - feature level
