@@ -1,0 +1,34 @@
+5 Server side rendering
+2 Darbas su dizaineriais (workflow, spalvu paletes, configiracijos , spacing etc.)
+Code generavimas (advanced)
+Typescript (Advanced)
+1 Domain layer (Separation of concerns)
+1 Alternatives to atomic design (domain, modular)
+2 Style approaches examples
+4 ES8
+4 Dynamic import
+4 Lazy loading
+Webpack
+? His date to day workflow
+node js deployment / pipeline() (prod)
+React router latest version
+Redux and middleware 
+themes providers and variants
+dynamic styles variants
+1 styling system variants
+folder structure that scales
+react native expo vs pure
+react native web 100% resusability
+react component npm libraries
+1 structuring react that scales
+
+
+themes providers and variants
+dynamic styles variants
+styling system variants
+folder structure that scales
+react native expo vs pure
+react native web 100% resusability?
+react component npm libraries?
+structuring react that scales?
+
