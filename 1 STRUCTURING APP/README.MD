@@ -2,7 +2,8 @@
 
 ## STRUCTURING APP
 
-[ATOMIC DESIGN GIT EXAMPLE](https://github.com/danilowoz/react-atomic-design)
+[ATOMIC DESIGN GIT EXAMPLE](https://github.com/danilowoz/react-atomic-design)  
+[MORE ABOUT ATOMIC DESIGN](https://medium.com/@carlos.parreno/atomic-design-thinking-154edb2d2a71)
 
 [REACT STRUCTURE FAQ](https://reactjs.org/docs/faq-structure.html)
 
