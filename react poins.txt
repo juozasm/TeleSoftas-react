@@ -1,6 +1,6 @@
 5-6 Server side rendering
 3 Darbas su dizaineriais (workflow, spalvu paletes, configiracijos , spacing etc.)
-9 Code generavimas (advanced)
+9 or 3 Code generavimas (advanced)
 8 Typescript (Advanced)
 1 Domain layer (Separation of concerns)
 1 Alternatives to atomic design (domain, modular)
@@ -21,5 +21,4 @@ node js deployment / pipeline() (prod)
 7 react native web 100% resusability
 9 react component npm libraries
 1 structuring react that scales
-
 

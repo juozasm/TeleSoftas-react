@@ -1,4 +1,4 @@
-# 1 STRUCTURING APP AND CODE GEN
+# 1 STRUCTURING APP
 
 ## STRUCTURING APP
 
@@ -34,3 +34,5 @@
 - Presentational components
 - Business logic
 - Implementation logic
+
+[P.S: NO 100% CORRECT WAY STRUCTURING REACT APP](https://medium.com/hackernoon/the-100-correct-way-to-structure-a-react-app-or-why-theres-no-such-thing-3ede534ef1ed)
