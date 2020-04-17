@@ -1,5 +1,37 @@
 .App {
   text-align: center;
+  padding: 30vh;
+}
+
+:root {
+  --green-color: rgb(18, 199, 18);
+  --danger-color: red;
+  --warn-color: yellow;
+}
+
+.color--green-color {
+  color: rgb(18, 199, 18);
+}
+.bg-color--green-color {
+  background-color: rgb(18, 199, 18);
+}
+
+.App-btn {
+  height: 60px;
+}
+
+.App-btn--primary {
+  background-color: red;
+  color: var(--green-color);
+}
+.App-btn--primary:hover {
+  background-color: green;
+}
+.App-btn--secondary {
+  background-color: blue;
+}
+.App-btn--secondary:hover {
+  background-color: red;
 }
 
 .App-logo {

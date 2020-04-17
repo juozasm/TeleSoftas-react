@@ -1,0 +1,22 @@
+@import "./styles/variables.scss";
+
+.root {
+  height: 60px;
+}
+.primary {
+  color: $green-color;
+  background-color: red;
+  &:hover {
+    background-color: green;
+  }
+}
+.secondary {
+  background-color: blue;
+  color: var(--green-color);
+  &:hover {
+    background-color: red;
+  }
+}
+.subsc {
+  background-color: black;
+}

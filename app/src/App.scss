@@ -1,0 +1,19 @@
+.App-btn2 {
+  height: 60px;
+  color: $green-color;
+  &--primary {
+    background-color: red;
+    &:hover {
+      background-color: green;
+    }
+  }
+  &--secondary {
+    background-color: blue;
+    &:hover {
+      background-color: red;
+    }
+  }
+  &--subsc {
+    background-color: black;
+  }
+}

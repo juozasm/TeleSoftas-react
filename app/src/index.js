@@ -1,12 +1,16 @@
 import React from "react"
 import ReactDOM from "react-dom"
 import "./index.css"
+import "./styles/main.scss"
 import App from "./App"
 import * as serviceWorker from "./serviceWorker"
+import { ThemeContextProvider } from "./ThemeProvider"
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <ThemeContextProvider>
+      <App />
+    </ThemeContextProvider>
   </React.StrictMode>,
   document.getElementById("root")
 )
